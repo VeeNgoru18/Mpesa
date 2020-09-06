@@ -1,0 +1,4 @@
+package mpesa
+
+class MyAccount {
+}

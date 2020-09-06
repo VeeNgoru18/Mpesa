@@ -7,4 +7,14 @@ fun main() {
     println("4. Loans and Saving")
     println("5. Lipa na M-PESA")
     println("6. My Account")
+
+    println("Choose an option:")
+
+    var option = readLine()
+
+    when (option) {
+
+    }
+
+
 }
